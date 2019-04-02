@@ -1,5 +1,8 @@
 # Flappy-Bird
 
+![Flappy Bird](https://i.imgur.com/SR9zXla.gif)
+
+
 This is a simple & lightweight clone of the classic game "Flappy Bird".
 Created using plain HTML, CSS, JavaScript and Phaser 3.
 
@@ -21,7 +24,7 @@ Simply open index.html and the game should start.
   open this project in your favourite IDE (i.e. VS Code + Live Server works great)
 ```
 ## Example 
-EXAMPLE IMAGE INCOMING
+![Example gif](https://i.imgur.com/sbSE5eN.gif)
 
 ## Running the tests
 
@@ -46,7 +49,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Kiko Estrada** - *Initial work* - [KikoEstrada](https://github.com/kk-o)
 
-See also the list of [contributors](https://github.com/kk-o/Breakout-Clone/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/kk-o/Flappy-Bird/contributors) who participated in this project.
 
 ## License
 
